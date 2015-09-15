@@ -1,4 +1,4 @@
-#Welcome to JS Workshop Day One !!
+#Welcome to JS Workshop Day One - Hanni!!
 
 ##Outline for Monday 9/14
 - Introductions
